@@ -5,8 +5,8 @@ go
 -- AppUser (5 rows)
 insert into AppUser (Email, Password) values
 ('mrm00045@mix.wvu.edu', 'Passw0rd!1'),
-('ac00012@mix.wvu.edu', 'Passw0rd!2'),
-('lb00098@mix.wvu.edu', 'Passw0rd!3'),
+('abc00012@mix.wvu.edu', 'Passw0rd!2'),
+('lob00098@mix.wvu.edu', 'Passw0rd!3'),
 ('sturner@mail.wvu.edu', 'Passw0rd!4'),
 ('nreed@mail.wvu.edu', 'Passw0rd!5');
 go
